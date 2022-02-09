@@ -1,4 +1,4 @@
-# News app by Elmario Husha
+# News app
 
 NOTE: API server must be running locally on port 7000 (see .env)
 
